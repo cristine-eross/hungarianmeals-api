@@ -1,0 +1,38 @@
+{
+    "starters": [
+        {
+            "id": 1,
+            "image": "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+            "title": "Summer Veggie Soup",
+            "hun_title": "Nyári zöldségleves",
+            "ingredients": ["1 onion", "2 carrots", "2 potatoes", "1/2 cauliflower", "100 g frozen sweetpeas", "salt", "pepper", "smoked paprika powder", "2 tbs oil", "sour cream"],
+            "instructions": ["Chop the veggies to smaller chunks.", "Fry the onion and carrot slices in the oil, until golden.", "Add the paprika powder and quickli fill up the pot with cold water.", "Add the rest of the ingredients.", "Cook the soup about 20 minutes or until the veggies are soft.", "Serve each plate of soup with a tbs of sour cream"]
+        },
+        {
+            "id": 2,
+            "image": "https://www.mindmegette.hu/images/377/XL/lead_XL_hagyomanyos-toltott-tojas-recept.jpg",
+            "title": "Stuffed eggs",
+            "hun_title": "Töltött tojás",
+            "ingredients": ["5 eggs", "100 g mayonese", "100 g sour cream", "a pot of paste", "salt", "pepper", "1tbs mustard", "1 pickle", "2 slices of ham", "parsley"],
+            "instructions": ["Boil the eggs until pefectly hard.", "Finely chop the ham, the pickle and the parsley", "Mix the mayo, sour cream and pickle and pour them on the bottom your serving plate. This is going to be the bed of the eggs", "Cut the eggs into two and remove the egg yalks into a bowl", "Smash the yalks with a fork and mix them with the mustard, paste, salt, pepper and ham.", "Fill the egg whites with the yalks, and place them on the top of the souce.", "decorate with chopped parsley and let it cool perfectly"]
+        }
+    ],
+    "desserts": [
+        {
+            "id": 3,
+            "image": "https://www.mindmegette.hu/images/220/O/gundel1.jpg",
+            "title": "Gundel Crepes",
+            "hun_title": "Gundel palacsinta",
+            "ingredients": ["30 dkg flour", "3 eggs", "2 tbs oil", "a pinch of salt", "1 ts sodium bicarbonate", "frizz water", "6 dl milk", "25 dkg walnut", "2 tbs rasins", "1 tbs rum"],
+            "instructions": ["Chop the veggies to smaller chunks.", "Fry the onion and carrot slices in the oil, until golden.", "Add the paprika powder and quickli fill up the pot with cold water.", "Add the rest of the ingredients.", "Cook the soup about 20 minutes or until the veggies are soft.", "Serve each plate of soup with a tbs of sour cream"]
+        },
+        {
+            "id": 5,
+            "image": "https://sutnijo.hu/storage/recipes/31421/rakoczi-turos-lepeny-14753.jpg",
+            "title": "Rakoczi Cottage Pie",
+            "hun_title": "Rákóczi túrós",
+            "ingredients": ["5 eggs", "100 g mayonese", "100 g sour cream", "a pot of paste", "salt", "pepper", "1tbs mustard", "1 pickle", "2 slices of ham", "parsley"],
+            "instructions": ["Boil the eggs until pefectly hard.", "Finely chop the ham, the pickle and the parsley", "Mix the mayo, sour cream and pickle and pour them on the bottom your serving plate. This is going to be the bed of the eggs", "Cut the eggs into two and remove the egg yalks into a bowl", "Smash the yalks with a fork and mix them with the mustard, paste, salt, pepper and ham.", "Fill the egg whites with the yalks, and place them on the top of the souce.", "decorate with chopped parsley and let it cool perfectly"]
+        }
+    ]
+}
